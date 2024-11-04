@@ -40,6 +40,11 @@ The Data used is gotten from The Incubator Hub Instructors which consists of an 
   
 ### Data Visualization
 ---
+![HHR](https://github.com/user-attachments/assets/cce45da9-63ad-4d96-aab3-5b2db43e8a9d)
+![HR DATA ___](https://github.com/user-attachments/assets/3b456b98-5ebd-47e3-9a82-0ff23c0e6491)
+![HR DATA 1](https://github.com/user-attachments/assets/b0e70857-6e24-4450-9532-25fa58f01953)
+![HR DATA](https://github.com/user-attachments/assets/532e4401-a8f3-4460-b53b-9116061ac2fb)
+![HR DATAA](https://github.com/user-attachments/assets/a3bb35b8-dcd2-44c9-b3b2-ca9db688f368)
 
 
  
